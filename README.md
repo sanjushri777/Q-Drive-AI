@@ -8,11 +8,11 @@ The project compares classical approaches (Brute Force, Greedy) with a quantum-i
 
 ## Project Structure
 
-```
-Q-Drive/
-│── poc.ipynb        # Main notebook with both classical and quantum code
-     
-```
+
+Q-DRIVE/
+└── poc.ipynb       # Main notebook with both classical and quantum code
+README.md           # Documentation (this file)
+
 
 ---
 
@@ -60,7 +60,7 @@ pip install pennylane networkx matplotlib
 
 ## How to Run
 
-1. Open the `poc.ipynb` notebook in Jupyter or Google Colab.
+1. Open the `Q-DRIVE/poc.ipynb` notebook in Jupyter or Google Colab.
 2. Run the cells to compare:
    - Brute Force (Exact)
    - Greedy Heuristic
