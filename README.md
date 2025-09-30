@@ -8,10 +8,12 @@ The project compares classical approaches (Brute Force, Greedy) with a quantum-i
 
 ## Project Structure
 
-
-Q-DRIVE/
-└── poc.ipynb       # Main notebook with both classical and quantum code
-README.md           # Documentation (this file)
+```
+.
+├── Q-DRIVE/
+│   └── poc.ipynb       # Main notebook with both classical and quantum code
+└── README.md           # Documentation (this file)
+```
 
 
 ---
